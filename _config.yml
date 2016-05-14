@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.433405
+  lightness: 0.4087003
+  brandStrength: 0.622449
+  brandColors:
+    - '#4A3C2F'
+    - '#9B804D'
+    - '#D9CBAE'
+    - '#000000'
+    - '#745A29'
+  rhythmicContrast: 0.7212675
+typography_spectrum: 0.4280344
+name: 'The Coons of AURYN '
